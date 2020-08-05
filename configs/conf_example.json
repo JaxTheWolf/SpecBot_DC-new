@@ -1,0 +1,9 @@
+{
+  "backPath": "../",
+  "disableEveryone": true,
+  "owner": "Your owner ID",
+  "prefix": "Prefix",
+  "timeZone": "Continent/City",
+  "token": "Your bot token",
+  "unknownCommandResponse": false
+}
